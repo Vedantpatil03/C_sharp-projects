@@ -1,0 +1,14 @@
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\bin\Debug\net10.0\AddTwoNo.exe
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\bin\Debug\net10.0\AddTwoNo.deps.json
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\bin\Debug\net10.0\AddTwoNo.runtimeconfig.json
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\bin\Debug\net10.0\AddTwoNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\bin\Debug\net10.0\AddTwoNo.pdb
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.AssemblyInfoInputs.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.AssemblyInfo.cs
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.csproj.CoreCompileInputs.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\refint\AddTwoNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.pdb
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\AddTwoNo.genruntimeconfig.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\AddTwoNo\obj\Debug\net10.0\ref\AddTwoNo.dll
