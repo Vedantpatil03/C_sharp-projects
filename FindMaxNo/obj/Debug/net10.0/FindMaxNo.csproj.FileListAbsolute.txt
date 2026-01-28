@@ -1,0 +1,14 @@
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\bin\Debug\net10.0\FindMaxNo.exe
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\bin\Debug\net10.0\FindMaxNo.deps.json
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\bin\Debug\net10.0\FindMaxNo.runtimeconfig.json
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\bin\Debug\net10.0\FindMaxNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\bin\Debug\net10.0\FindMaxNo.pdb
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.AssemblyInfoInputs.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.AssemblyInfo.cs
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.csproj.CoreCompileInputs.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\refint\FindMaxNo.dll
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.pdb
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\FindMaxNo.genruntimeconfig.cache
+C:\Users\vedan\AppData\Desktop\C Sharp\FindMaxNo\obj\Debug\net10.0\ref\FindMaxNo.dll
