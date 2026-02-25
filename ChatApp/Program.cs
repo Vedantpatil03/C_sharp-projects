@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.Json;
 
-string apiKey = "AIzaSyDPJcQRdTh6TcbvnKE5fAiDSB1ODFhpDTY";
+string apiKey = "";
 
 HttpClient client = new HttpClient();
 
@@ -60,3 +60,4 @@ while (true)
         Console.WriteLine();
     }
 }
+
