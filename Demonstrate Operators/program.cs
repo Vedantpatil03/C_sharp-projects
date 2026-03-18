@@ -1,0 +1,20 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int a = 10, b = 5;
+
+        Console.WriteLine("Addition: " + (a + b));
+        Console.WriteLine("Subtraction: " + (a - b));
+        Console.WriteLine("Multiplication: " + (a * b));
+        Console.WriteLine("Division: " + (a / b));
+        Console.WriteLine("Modulus: " + (a % b));
+
+        Console.WriteLine("a > b: " + (a > b));
+        Console.WriteLine("a == b: " + (a == b));
+
+        Console.WriteLine("Logical AND: " + (a > 5 && b < 10));
+    }
+}
